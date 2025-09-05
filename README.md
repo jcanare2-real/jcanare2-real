@@ -39,5 +39,5 @@ Siempre aplico buenas prácticas, pruebas automatizadas y auditorías de código
 - Email: jcanare2@gmail.com
 
 ---
-## ESte perfil lo acabo de recuperar 
+## Este perfil lo acabo de recuperar 
 Gracias por visitar mi perfil ❤️  
