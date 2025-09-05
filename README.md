@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Carlos!
 
-<!--
-**jcanare2-real/jcanare2-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Senior Java | Especialista en Spring Boot & Microservicios | Apasionado por la Calidad de Código y la Innovación
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy un desarrollador de software con más de 8 años de experiencia en el diseño y desarrollo de aplicaciones backend escalables usando Java y el ecosistema Spring. Me esfuerzo por estar al día con tecnologías Spring Boot, Spring Security, integración de APIs, arquitectura de microservicios y prácticas sólidas de calidad de código.
+
+Siempre aplico buenas prácticas, pruebas automatizadas y auditorías de código para entregar software robusto y mantenible. Además, me apasiona aprender nuevas tecnologías y compartir conocimiento en la comunidad.
+
+---
+
+## 🔧 Tecnologías & Herramientas
+
+- Lenguajes: Java, SQL
+- Frameworks: Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- Seguridad: JWT, OAuth2
+- Contenedores: Docker
+- Control de versiones: Git, GitHub, GitLab
+- Integración continua: Jenkins, GitHub Actions
+- Calidad de código: SonarQube
+- Bases de datos: MySQL, PostgreSQL
+- Otros: Maven, Gradle, REST APIs, Microservicios, Hibernate Envers (Auditoría)
+
+---
+
+## 🚀 Proyectos destacados
+
+[Nombre Proyecto 1] - Aplicación backend para gestión de [descripción breve]. Implementa seguridad con JWT y auditoría con Hibernate Envers.  
+[Nombre Proyecto 2] - Microservicios escalables y tolerantes a fallos para [descripción breve]. Integración continua con pipelines automatizados.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/juan-carlos-pacheco-308140b9/
+- Email: jcanare2@gmail.com
+
+---
+## ESte perfil lo acabo de recuperar 
+Gracias por visitar mi perfil ❤️  
