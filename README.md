@@ -28,8 +28,7 @@ Siempre aplico buenas prácticas, pruebas automatizadas y auditorías de código
 
 ## 🚀 Proyectos destacados
 
-[Nombre Proyecto 1] - Aplicación backend para gestión de [descripción breve]. Implementa seguridad con JWT y auditoría con Hibernate Envers.  
-[Nombre Proyecto 2] - Microservicios escalables y tolerantes a fallos para [descripción breve]. Integración continua con pipelines automatizados.
+API-BASE-AUTHENTICATION-JWT - Aplicación backend para gestión de Usuarios, Roles y Permisos granulares. Implementa seguridad con JWT. 
 
 ---
 
